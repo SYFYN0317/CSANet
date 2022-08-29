@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3700e5a5-5c19-4dfc-bc1d-2a3bf6bf7238" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tOJhVPqTkOQyvAWBT7FmwaKfCv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BS2T" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="generate_pic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hegerogous" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CDCNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CDCNN/generate_pic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hegerogous" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSIFN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSIFN/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HSCD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSANetMain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSANetMain/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hegerogous" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CDCNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CDCNN/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.generate_pic" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3700e5a5-5c19-4dfc-bc1d-2a3bf6bf7238" name="Default Changelist" comment="" />
+      <created>1622634321972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622634321972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-965" y="376" key="FileChooserDialogImpl" timestamp="1659422987979">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state x="-965" y="376" key="FileChooserDialogImpl/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1659422987979" />
+    <state x="633" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1651026478475" />
+    <state width="1408" height="931" key="GridCell.Tab.0.bottom" timestamp="1659424290783">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="931" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1659424290783" />
+    <state width="1888" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651031110128" />
+    <state width="1408" height="931" key="GridCell.Tab.0.center" timestamp="1659424290783">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="931" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1659424290783" />
+    <state width="1888" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651031110128" />
+    <state width="1408" height="931" key="GridCell.Tab.0.left" timestamp="1659424290783">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="931" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1659424290783" />
+    <state width="1888" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651031110128" />
+    <state width="1408" height="931" key="GridCell.Tab.0.right" timestamp="1659424290783">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="931" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1659424290783" />
+    <state width="1888" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651031110128" />
+    <state width="1408" height="905" key="GridCell.Tab.1.bottom" timestamp="1658470612286">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="905" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1658470612286" />
+    <state width="1408" height="905" key="GridCell.Tab.1.center" timestamp="1658470612286">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="905" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1658470612286" />
+    <state width="1408" height="905" key="GridCell.Tab.1.left" timestamp="1658470612286">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="905" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1658470612286" />
+    <state width="1408" height="905" key="GridCell.Tab.1.right" timestamp="1658470612286">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state width="1408" height="905" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1658470612286" />
+    <state x="-1440" y="0" key="SettingsEditor" timestamp="1658401696904">
+      <screen x="-1440" y="0" width="1440" height="2520" />
+    </state>
+    <state x="-1440" y="0" key="SettingsEditor/0.0.1920.1040/-1440.0.1440.2520@-1440.0.1440.2520" timestamp="1658401696904" />
+    <state x="211" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1651026515467" />
+  </component>
+</project>
